@@ -1,5 +1,5 @@
 import About from "./components/About.jsx";
-import contact from "./components/contact.jsx";
+// import contact from "./components/contact.jsx";
 
 import Experience from "./components/Experience.jsx";
 import Hero from "./components/Hero.jsx";
@@ -22,7 +22,7 @@ export default function App() {
         <Technologies/>
         <Experience/>
         <Projects/>
-        <contact/>
+        {/* <contact/> */}
       </div>
 
     </div>
