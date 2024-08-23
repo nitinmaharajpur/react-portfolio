@@ -1,5 +1,6 @@
 import About from "./components/About.jsx";
 import Contact from "./components/contact.jsx";
+
 import Experience from "./components/Experience.jsx";
 import Hero from "./components/Hero.jsx";
 import Navbar from "./components/Navbar.jsx";

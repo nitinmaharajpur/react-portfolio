@@ -1,7 +1,7 @@
 import { CONTACT } from "../constants"
 import {motion} from "framer-motion"
 
-const contact = () => {
+const Contact = () => {
   return (
     <div className="border-b border-neutral-900 pb-20">
         <motion.h2 
@@ -28,4 +28,4 @@ const contact = () => {
   )
 }
 
-export default contact;
+export default Contact;
